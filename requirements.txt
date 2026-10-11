@@ -3,3 +3,6 @@ sqlalchemy
 pymysql
 cryptography
 python-dotenv
+sqlglot
+google-genai
+pytest
